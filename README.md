@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timothy</h1>
 <h3 align="center">Computer Science student @ UT Arlington</h3>
 
-- 🌱 I’m currently learning **how to expand my knowledge further for different languages**
+- 🌱 I’m currently learning **how to expand my knowledge furthermore on different languages**
 
 - 📫 How to reach me **tdc1448@mavs.uta.edu**
 
